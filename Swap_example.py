@@ -1,7 +1,7 @@
 def swap_values(a, b):
-    temp = a
+    var = a
     a = b
-    b = temp
+    b = var
     return a, b
     
     
